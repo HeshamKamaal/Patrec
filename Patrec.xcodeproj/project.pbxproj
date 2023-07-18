@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F63E47212A618A97000B9564 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63E47202A618A97000B9564 /* RegisterViewController.swift */; };
+		F63E47232A672605000B9564 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63E47222A672605000B9564 /* HomeTableViewController.swift */; };
 		F661DD7F2A5C7F44006D4E83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F661DD7E2A5C7F44006D4E83 /* AppDelegate.swift */; };
 		F661DD812A5C7F44006D4E83 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F661DD802A5C7F44006D4E83 /* SceneDelegate.swift */; };
 		F661DD832A5C7F44006D4E83 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F661DD822A5C7F44006D4E83 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		F63E47202A618A97000B9564 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		F63E47222A672605000B9564 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		F661DD7B2A5C7F44006D4E83 /* Patrec.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Patrec.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F661DD7E2A5C7F44006D4E83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F661DD802A5C7F44006D4E83 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				F661DD802A5C7F44006D4E83 /* SceneDelegate.swift */,
 				F661DD822A5C7F44006D4E83 /* ViewController.swift */,
 				F63E47202A618A97000B9564 /* RegisterViewController.swift */,
+				F63E47222A672605000B9564 /* HomeTableViewController.swift */,
 				F661DD842A5C7F44006D4E83 /* Main.storyboard */,
 				F661DD872A5C7F45006D4E83 /* Assets.xcassets */,
 				F661DD892A5C7F45006D4E83 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				F661DD7F2A5C7F44006D4E83 /* AppDelegate.swift in Sources */,
 				F661DD812A5C7F44006D4E83 /* SceneDelegate.swift in Sources */,
 				F63E47212A618A97000B9564 /* RegisterViewController.swift in Sources */,
+				F63E47232A672605000B9564 /* HomeTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
